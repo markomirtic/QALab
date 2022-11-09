@@ -1,4 +1,4 @@
-package CoreJava;
+package CoreJava1;
 
 public class VariablesAndDataTypes {
 

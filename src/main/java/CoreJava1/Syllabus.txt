@@ -1,0 +1,12 @@
+Core Java 1 Syllabus
+
+
+1. Java variables and data types --> VariableAndDataTypes.java
+2. Arrays --> Arrays.java
+3. ForLoop --> ForLoop.java
+4. ArrayList and Array --> ArrayList.java
+5. String --> Strings.java
+6. Methods and Access methods --> Methods.java
+
+
+
