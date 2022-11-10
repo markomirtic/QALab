@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.markomirtic.com"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.markomirtic.com"><img src="https://i.ibb.co/61RmvyB/Qa-Lab-Logo-min.png" alt="Markdownify" width="200"></a>
   <br>
   QALab
   <br>
