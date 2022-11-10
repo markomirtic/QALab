@@ -1,10 +1,8 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.markomirtic.com"><img src="https://i.ibb.co/61RmvyB/Qa-Lab-Logo-min.png" alt="Markdownify" width="200"></a>
-  <br>
-  QALab
-  <br>
+  <a href="http://www.markomirtic.com"><img src="https://i.ibb.co/dMtQ8Ss/QALabNew.png" alt="Markdownify" width="200"></a>
+  
 </h1>
 
 <h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
