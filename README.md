@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://markomirtic.com/"><img src="https://i.imgur.com/c1Fw9Hq.png"></a>
+  <a href="https://markomirtic.com/"><img src="https://i.imgur.com/c1Fw9Hq.png" width="200"></a>
 
 </h1>
 
