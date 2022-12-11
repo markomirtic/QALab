@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://markomirtic.com/"><img src="https://i.ibb.co/7SpRkMv/Logo-black-removebg.png" alt="Logo-black-removebg" border="0" width="400"></a>
+  <a href="https://markomirtic.com/"><img src="https://i.ibb.co/7SpRkMv/Logo-black-removebg.png" alt="Logo-black-removebg" width="400"></a>
 
 </h1>
 
