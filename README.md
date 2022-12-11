@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://markomirtic.com/"><img src="https://i.ibb.co/xHjDRys/logo-black-removebg.png" alt="Markdownify" width="200"></a>
+  <a href="https://markomirtic.com/"><img src="https://i.ibb.co/xHjDRys/logo-black-removebg.png" alt="Markdownify" width="300"></a>
 
 </h1>
 
