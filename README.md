@@ -6,7 +6,7 @@
 </h1>
 
 
-<h4 align="center">Automation Framework based on UI (Selenium WebDriver) and API (RestAssured)" .</h4>
+<h4 align="center">Automation testing framework | Selenium | RestAssured  </h4>
 
 <p align="center">
     
