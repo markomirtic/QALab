@@ -9,9 +9,7 @@
 <h4 align="center">Automation Framework based on UI (Selenium WebDriver) and API (RestAssured)" .</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/selenium.svg">
-    <img src="https://badge.fury.io/js/selenium.svg"
-         alt="Gitter">
+    
   </a>
   <a href="https://gitter.im/QALabCommunity/community"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/markomirtic">
