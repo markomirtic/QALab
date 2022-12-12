@@ -36,7 +36,7 @@
 * The main goal of this project is to share day life examples, testing principles using most favourite Web application and REST services such as: 
     - [SWAGLabs](https://www.saucedemo.com/) - Sauce Demo
     - [UltimateQA](https://ultimateqa.com/automation) - Ultimate QA Automation
-    - [DemoQA]("https://demoqa.com/) - Tools QA
+    - [DemoQA](https://demoqa.com/) - Tools QA
 * Sync Scrolling
     - While you type, LivePreview will automatically scroll to the current location you're editing.
 * GitHub Flavored Markdown
