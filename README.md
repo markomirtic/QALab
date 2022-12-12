@@ -37,6 +37,8 @@
     - [SWAGLabs](https://www.saucedemo.com/) - Sauce Demo
     - [UltimateQA](https://ultimateqa.com/automation) - Ultimate QA Automation
     - [DemoQA](https://demoqa.com/) - Tools QA
+    - [PetStore](https://petstore.swagger.io/) - Swagger PetStore
+    - [Regres](https://reqres.in/) - Reqres
 * Sync Scrolling
     - While you type, LivePreview will automatically scroll to the current location you're editing.
 * GitHub Flavored Markdown
