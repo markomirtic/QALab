@@ -1,30 +1,27 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
-  <br>
-  QALab
-  <br>
+  <a href="https://markomirtic.com/"><img src="https://i.imgur.com/c1Fw9Hq.png" width="400"></a>
+
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+
+<h4 align="center">Automation testing framework | Selenium | RestAssured  </h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
+    
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
+  <a href="https://gitter.im/QALabCommunity/community"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
+  <a href="https://saythanks.io/to/markomirtic">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
-  <a href="https://www.paypal.me/AmitMerchant">
+  <a href="https://www.paypal.com/paypalme/markomirtic">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#About">About</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -34,12 +31,9 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+## About
 
-[![Join the chat at https://gitter.im/QALabCommunity/community](https://badges.gitter.im/QALabCommunity/community.svg)](https://gitter.im/QALabCommunity/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-* LivePreview - Make changes, See changes
-    - Instantly see what your Markdown documents look like in HTML as you create them.
 * Sync Scrolling
     - While you type, LivePreview will automatically scroll to the current location you're editing.
 * GitHub Flavored Markdown
