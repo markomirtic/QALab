@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#About">About</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -31,10 +31,15 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+## About
 
-* LivePreview - Make changes, See changes
-    - Instantly see what your Markdown documents look like in HTML as you create them.
+* The main goal of this project is to share day life examples, testing principles using most favourite Web application and REST services such as: 
+    - [SWAGLabs](https://www.saucedemo.com/) - Sauce Demo
+    - [UltimateQA](https://ultimateqa.com/automation) - Ultimate QA Automation
+    - [NaveenAutomationLabs](https://naveenautomationlabs.com/opencart/) - Open Cart
+    - [DemoQA](https://demoqa.com/) - Tools QA
+    - [PetStore](https://petstore.swagger.io/) - Swagger PetStore
+    - [Regres](https://reqres.in/) - Reqres
 * Sync Scrolling
     - While you type, LivePreview will automatically scroll to the current location you're editing.
 * GitHub Flavored Markdown
