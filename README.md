@@ -36,6 +36,7 @@
 * The main goal of this project is to share day life examples, testing principles using most favourite Web application and REST services such as: 
     - [SWAGLabs](https://www.saucedemo.com/) - Sauce Demo
     - [UltimateQA](https://ultimateqa.com/automation) - Ultimate QA Automation
+    - [NaveenAutomationLabs](https://naveenautomationlabs.com/opencart/) - Open Cart
     - [DemoQA](https://demoqa.com/) - Tools QA
     - [PetStore](https://petstore.swagger.io/) - Swagger PetStore
     - [Regres](https://reqres.in/) - Reqres
