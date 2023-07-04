@@ -10,8 +10,8 @@ public class LoginTest {
     @Test
     public void firsTest() {
         WebDriverManager.chromedriver().setup();
-       // ChromeOptions options = new ChromeOptions();
-     //   options.addArguments("--headless");
+       ChromeOptions options = new ChromeOptions();
+       options.addArguments("--headless");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com");
         System.out.println(driver.getTitle());
