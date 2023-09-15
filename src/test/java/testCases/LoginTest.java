@@ -18,6 +18,20 @@ public class LoginTest {
         System.out.println(driver.getTitle());
         driver.quit();
 
+    @Test
+    public void firsTest1() {
+        WebDriverManager.chromedriver().setup();
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--headless");
+        WebDriver driver = new ChromeDriver();
+        driver.get("https://www.google.com");
+        System.out.println(driver.getTitle());
+        driver.quit();
+    }
+
+
+
+=======
     }
 
 }
